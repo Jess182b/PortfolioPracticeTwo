@@ -33,7 +33,7 @@ body {
     display: flex;
     height: 60px;
     width: 100%;
-    background: rgba(0,0,0,0.7);
+    /* background: rgba(0,0,0,0.7); */
 }
 
 .navbar ul{
